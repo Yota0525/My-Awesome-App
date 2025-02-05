@@ -1,0 +1,10 @@
+{
+    "name": "my-awesome-app",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "nuxt"
+    },
+    "dependencies": {
+        "nuxt": "^2.18.1"
+    }
+}
