@@ -1,6 +1,6 @@
 <template>
   <div class="home-page">
-    <h1>Welcome to the Blue Music World</h1>
+    <h1>Welcome to the Music World</h1>
     <p>Explore songs, singers, and music products!</p>
   </div>
 </template>
