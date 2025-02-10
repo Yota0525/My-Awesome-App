@@ -16,7 +16,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-/* レイアウトに適用するスタイルがあればここに記述 */
-</style>
