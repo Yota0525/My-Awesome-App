@@ -9,12 +9,6 @@
   </nav>
 </template>
 
-<script>
-export default {
-  name: 'Navbar'
-};
-</script>
-
 <style scoped>
 .navbar {
   background-color: #2c3e50;
