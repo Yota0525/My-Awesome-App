@@ -1,10 +1,17 @@
 {
     "name": "my-awesome-app",
     "version": "1.0.0",
+    "type": "module",
     "scripts": {
-        "dev": "nuxt"
+        "dev": "nuxt dev"
     },
     "dependencies": {
-        "nuxt": "^2.18.1"
+        "vue": "latest"
+    },
+    "devDependencies": {
+        "nuxt": "^3.13.0"
+    },
+    "volta": {
+        "node": "20.17.0"
     }
 }
