@@ -10,5 +10,4 @@
 
 <script setup lang="ts">
 const { songs } = useSongs()
-
 </script>
